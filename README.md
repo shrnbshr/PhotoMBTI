@@ -54,6 +54,7 @@ npm run lint
 ## 发布说明
 发布记录见：
 
+v0.1.0
 - [RELEASE_NOTES.md](./RELEASE_NOTES.md)
 
 ## 已知问题
