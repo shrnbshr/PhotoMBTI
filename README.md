@@ -1,5 +1,7 @@
 # 摄影佬人格测试（photo-mbti）
 
+测试网站：[PhotoMBTI](photombti.dpdns.org)
+
 **此测试受SBTI启发，在此给出项目链接（可能非官方）：[SBTI 测试（镜像）](https://github.com/UnluckyNinja/SBTI-test)**
 **主要图一乐，大部分内容由AI生成，经本人小改，如有不妥当之处，欢迎批评指导。**
 
