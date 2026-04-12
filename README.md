@@ -1,5 +1,8 @@
 # 摄影佬人格测试（photo-mbti）
 
+**此测试受SBTI启发，在此给出项目链接（可能非官方）：[SBTI 测试（镜像）](https://github.com/UnluckyNinja/SBTI-test)**
+**主要图一乐，大部分内容由AI生成，经本人小改，如有不妥当之处，欢迎批评指导。**
+
 一个基于 React + Vite 的趣味人格测试应用。  
 通过 20 道摄影相关选择题，输出 20 种“摄影圈人格”中的一种结果。
 
@@ -50,15 +53,3 @@ npm run lint
 并列决胜规则：
 
 `rawScore > hitCount > id字典序`
-
-## 发布说明
-发布记录见：
-
-v0.1.0
-- [RELEASE_NOTES.md](./RELEASE_NOTES.md)
-
-## 已知问题
-- 某些 Windows 环境下，`vite` 可能报 `spawn EPERM` 或 `EXIT_CODE=-1073740791`（环境权限/运行时问题）。
-- 若遇到该问题，建议优先检查：
-  - Node 版本是否为 LTS（20/22）
-  - 安全软件或系统策略是否拦截 `esbuild` 子进程
