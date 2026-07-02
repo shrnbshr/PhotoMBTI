@@ -22,32 +22,6 @@
 - Tailwind CSS 4
 - Motion
 
-## 快速开始
-
-### 1. 环境要求
-- Node.js（建议 LTS：20 或 22）
-
-### 2. 安装依赖
-```bash
-npm install
-```
-
-### 3. 启动开发环境
-```bash
-npm run dev
-```
-
-### 4. 类型检查
-```bash
-npm run lint
-```
-
-## 可用脚本
-- `npm run dev`：启动开发服务器（默认 `0.0.0.0:3000`）
-- `npm run build`：打包生产构建
-- `npm run preview`：本地预览构建结果
-- `npm run lint`：TypeScript 类型检查（`tsc --noEmit`）
-
 ## 评分与结果判定
 结果判定公式：
 
